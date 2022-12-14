@@ -1,0 +1,362 @@
+[
+    {
+        "id": "1-harry",
+        "titulo": "Harry Potter's Wand",
+        "price": 32,
+        "img": "../assets/wand-harry-potter.png",
+        "categoria": {
+            "nombre":"Gryffindor",
+            "id":"gryffindor"
+        }
+    },
+    {
+        "id": "2-ron", 
+        "titulo": "Ron Weasley's Wand", 
+        "price": 32, 
+        "img":"../assets/wand-ron-weasley.png",
+        "categoria": {
+            "nombre":"Gryffindor",
+            "id":"gryffindor"
+        }
+    },
+    {
+        "id": "3-hermione", 
+        "titulo": "Hermione Granger's Wand", 
+        "price": 32, 
+        "img":"../assets/wand-hermione-granger.png",
+        "categoria": {
+            "nombre":"Gryffindor",
+            "id":"gryffindor"
+        }
+    },
+    {
+        "id": "4-draco", 
+        "titulo": "Draco Malfoy's Wand", 
+        "price": 32, 
+        "img":"../assets/wand-draco-malfoy.png",
+        "categoria": {
+            "nombre":"Slytherin",
+            "id":"slytherin"
+        }
+    },
+    {
+        "id": "5-albus", 
+        "titulo": "Albus Dumbledore's Wand", 
+        "price": 32, 
+        "img":"../assets/wand-albus-dumbledore.png",
+        "categoria": {
+            "nombre":"Gryffindor",
+            "id":"gryffindor"
+        }
+    },
+    {
+        "id": "6-voldemort", 
+        "titulo": "Lord Voldemort's Wand", 
+        "price": 32, 
+        "img":"../assets/wand-lord-voldemort.png",
+        "categoria": {
+            "nombre":"Slytherin",
+            "id":"slytherin"
+        }
+    },
+    {
+        "id": "7-sirius", 
+        "titulo": "Sirius Black's Wand", 
+        "price": 32, 
+        "img":"../assets/wand-sirius-black.png",
+        "categoria": {
+            "nombre":"Gryffindor",
+            "id":"gryffindor"
+        }
+    },
+    {
+        "id": "8-bellatrix", 
+        "titulo": "Bellatrix Lestrange's Wand", 
+        "price": 32, 
+        "img":"../assets/wand-bellatrix-lestrange.png",
+        "categoria": {
+            "nombre":"Slytherin",
+            "id":"slytherin"
+        }
+    },
+    {
+        "id": "9-severus", 
+        "titulo": "Severus Snape's Wand", 
+        "price": 32, 
+        "img":"../assets/wand-severus-snape.png",
+        "categoria": {
+            "nombre":"Slytherin",
+            "id":"slytherin"
+        }
+    },
+    {
+        "id": "10-luna", 
+        "titulo": "Luna Lovegood's Wand", 
+        "price": 32, 
+        "img":"../assets/wand-luna-lovegood.png",
+        "categoria": {
+            "nombre":"Ravenclaw",
+            "id":"ravenclaw"
+        }
+    },
+    {
+        "id": "11-newt", 
+        "titulo": "Newt Scamander's Wand", 
+        "price": 32, 
+        "img":"../assets/wand-newt-scamander.png",
+        "categoria": {
+            "nombre":"Hufflepuff",
+            "id":"hufflepuff"
+        }
+    },
+    {
+        "id": "12-diadem-ravenclaw", 
+        "titulo": "The Diadem of Ravenclaw Wand", 
+        "price": 33, 
+        "img":"../assets/wand-ravenclaw-diadem.png",
+        "categoria": {
+            "nombre":"Ravenclaw",
+            "id":"ravenclaw"
+        }
+    },
+    {
+        "id": "13-locket-slytherin", 
+        "titulo": "The Locket Of Slytherin Wand", 
+        "price": 33, 
+        "img":"../assets/wand-slytherin-locket.png",
+        "categoria": {
+            "nombre":"Slytherin",
+            "id":"slytherin"
+        }
+    },
+    {
+        "id": "14-mascot-slytherin", 
+        "titulo": "The Slytherin Mascot Wand", 
+        "price": 33, 
+        "img":"../assets/wand-slytherin-mascot.png",
+        "categoria": {
+            "nombre":"Slytherin",
+            "id":"slytherin"
+        }
+    },
+    {
+        "id": "15-phoenix", 
+        "titulo": "Phoenix Wand", 
+        "price": 33, 
+        "img":"../assets/wand-phoenix.png",
+        "categoria": {
+            "nombre":"Gryffindor",
+            "id":"gryffindor"
+        }
+    },
+    {
+        "id": "16-cup-hufflepuff", 
+        "titulo": "The Cup of Hufflepuff Wand", 
+        "price": 33, 
+        "img":"../assets/wand-hufflepuff-cup.png",
+        "categoria": {
+            "nombre":"Hufflepuff",
+            "id":"hufflepuff"
+        }
+    },
+    {
+        "id": "17-ginny", 
+        "titulo": "Ginny Weasley's Wand", 
+        "price": 32, 
+        "img":"../assets/wand-ginny-weasley.png",
+        "categoria": {
+            "nombre":"Gryffindor",
+            "id":"gryffindor"
+        }
+    },
+    {
+        "id": "18-minerva", 
+        "titulo": "Professor McGonagall's Wand", 
+        "price": 32, 
+        "img":"../assets/wand-minerva-mcgonagall.png",
+        "categoria": {
+            "nombre":"Gryffindor",
+            "id":"gryffindor"
+        }
+    },
+    {
+        "id": "20-mascot-ravenclaw", 
+        "titulo": "The Ravenclaw Mascot Wand", 
+        "price": 33, 
+        "img":"../assets/wand-ravenclaw-mascot.png",
+        "categoria": {
+            "nombre":"Ravenclaw",
+            "id":"ravenclaw"
+        }
+    },
+    {
+        "id": "21-mascot-hufflepuff", 
+        "titulo": "The Hufflepuff Mascot Wand", 
+        "price": 33, 
+        "img":"../assets/wand-hufflepuff-mascot.png",
+        "categoria": {
+            "nombre":"Hufflepuff",
+            "id":"hufflepuff"
+        }
+    },
+    {
+        "id": "22-mascot-gryffindor", 
+        "titulo": "The Gryffindor Mascot Wand", 
+        "price": 33, 
+        "img":"../assets/wand-gryffindor-mascot.png",
+        "categoria": {
+            "nombre":"Gryffindor",
+            "id":"gryffindor"
+        }
+    },
+    {
+        "id": "23-horace", 
+        "titulo": "Professor Slughorn's Wand", 
+        "price": 32, 
+        "img":"../assets/wand-horace-slughorn.png",
+        "categoria": {
+            "nombre":"Slytherin",
+            "id":"slytherin"
+        }
+    },
+    {
+        "id": "24-cedric", 
+        "titulo": "Cedric Diggory's Wand", 
+        "price": 32, 
+        "img":"../assets/wand-cedric-diggory.png",
+        "categoria": {
+            "nombre":"Hufflepuff",
+            "id":"hufflepuff"
+        }
+    },
+    {
+        "id": "25-nymphadora", 
+        "titulo": "Nymphadora Tonks's Wand", 
+        "price": 32, 
+        "img":"../assets/wand-nymphadora-tonks.png",
+        "categoria": {
+            "nombre":"Hufflepuff",
+            "id":"hufflepuff"
+        }
+    },
+    {
+        "id": "26-cho", 
+        "titulo": "Cho Chang's Wand", 
+        "price": 32, 
+        "img":"../assets/wand-cho-chang.png",
+        "categoria": {
+            "nombre":"Ravenclaw",
+            "id":"ravenclaw"
+        }
+    },
+    {
+        "id": "27-fred", 
+        "titulo": "Fred Weasley's Wand", 
+        "price": 32, 
+        "img":"../assets/wand-fred-weasley.png",
+        "categoria": {
+            "nombre":"Gryffindor",
+            "id":"gryffindor"
+        }
+    },
+    {
+        "id": "28-george", 
+        "titulo": "George Weasley's Wand", 
+        "price": 32, 
+        "img":"../assets/wand-george-weasley.png",
+        "categoria": {
+            "nombre":"Gryffindor",
+            "id":"gryffindor"
+        }
+    },
+    {
+        "id": "29-leta", 
+        "titulo": "Leta Lestrange's Wand", 
+        "price": 32, 
+        "img":"../assets/wand-leta-lestrange.png",
+        "categoria": {
+            "nombre":"Slytherin",
+            "id":"slytherin"
+        }
+    },
+    {
+        "id": "30-remus", 
+        "titulo": "Professor Lupin's Wand", 
+        "price": 32, 
+        "img":"../assets/wand-remus-lupin.png",
+        "categoria": {
+            "nombre":"Gryffindor",
+            "id":"gryffindor"
+        }
+    },
+    {
+        "id": "31-neville", 
+        "titulo": "Neville Longbottom's Wand", 
+        "price": 32, 
+        "img":"../assets/wand-neville-longbottom.png",
+        "categoria": {
+            "nombre":"Gryffindor",
+            "id":"gryffindor"
+        }
+    },
+    {
+        "id": "32-theseus", 
+        "titulo": "Theseus Scamander's Wand", 
+        "price": 32, 
+        "img":"../assets/wand-theseus-scamander.png",
+        "categoria": {
+            "nombre":"Hufflepuff",
+            "id":"hufflepuff"
+        }
+    },
+    {
+        "id": "33-filius", 
+        "titulo": "Filius Flitwick's Wand", 
+        "price": 32, 
+        "img":"../assets/wand-filius-flitwick.png",
+        "categoria": {
+            "nombre":"Ravenclaw",
+            "id":"ravenclaw"
+        }
+    },
+    {
+        "id": "34-xenophilius", 
+        "titulo": "Xenophilius Lovegood's Wand", 
+        "price": 32, 
+        "img":"../assets/wand-xenophilius-lovegood.png",
+        "categoria": {
+            "nombre":"Ravenclaw",
+            "id":"ravenclaw"
+        }
+    },
+    {
+        "id": "35-loyal", 
+        "titulo": "Loyal Magic Caster Wand", 
+        "price": 150, 
+        "img":"../assets/wand-loyal.jpg",
+        "categoria": {
+            "nombre":"Magic Caster",
+            "id":"magic-caster"
+        }
+    },
+    {
+        "id": "36-defiant", 
+        "titulo": "Defiant Magic Caster Wand", 
+        "price": 150, 
+        "img":"../assets/wand-defiant.jpg",
+        "categoria": {
+            "nombre":"Magic Caster",
+            "id":"magic-caster"
+        }
+    },
+    {
+        "id": "37-heroic", 
+        "titulo": "Heroic Magic Caster Wand", 
+        "price": 150, 
+        "img":"../assets/wand-heroic.jpg",
+        "categoria": {
+            "nombre":"Magic Caster",
+            "id":"magic-caster"
+        }
+    }
+]
